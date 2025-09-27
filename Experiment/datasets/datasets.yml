@@ -1,0 +1,5 @@
+- name: iris
+  url: https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
+  filename: iris.data
+  checksum: ""
+  extract: false
